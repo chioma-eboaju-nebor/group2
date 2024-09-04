@@ -1,2 +1,3 @@
-# group2
-git/linux  group2 assignment
+Insights from Posey database analysis.
+
+Members Name: Lawal Kaosarah, Eboaju Chioma, Olugbenga Adewole.
