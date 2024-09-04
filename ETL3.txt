@@ -1,0 +1,8 @@
+#!/bin/bash
+
+mkdir -p json_and_CSV
+mv *.csv json_and_CSV
+mv *.json json_and_CSV
+cd json_and_CSV
+ls
+
