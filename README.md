@@ -73,18 +73,12 @@ Each group member made specific contributions to the project:
   - Coordinated the group's activities and managed GitHub pull requests.
 
 ## Repository Structure
-|-- Scripts | |-- Bash_Scripts | | |-- (Bash scripts for individual assignments) | |-- SQL_Scripts | |-- (SQL scripts to answer the posed questions) |-- PowerPoint | |-- (PowerPoint presentation files) |-- README.md
-
-bash
-Copy code
-
-## How to Run the Analysis
-1. Clone the repository using:
-   ```bash
-   git clone https://github.com/chioma-eboaju-nebor/group2gitlinuxAssignment
-Navigate to the Scripts directory to find the Bash and SQL scripts used in this analysis.
-Use the PowerPoint folder to view the presentation summarizing our findings.
-
-# Conclusion
-The insights derived from the Posey database provide valuable information that can guide CoreDataEngineers in making strategic decisions in their market. The EDA revealed critical areas where improvements can be made, and our visualizations provide a clear and concise summary of the findings.
-
+```plaintext
+|-- Scripts
+   |-- Bash_Scripts
+      |-- (Bash scripts for individual assignments)
+   |-- SQL_Scripts
+      |-- (SQL scripts to answer the posed questions)
+|-- PowerPoint
+   |-- (PowerPoint presentation files)
+|-- README.md
