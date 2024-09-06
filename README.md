@@ -48,37 +48,5 @@ The data for this analysis was derived from the following CSV files:
 - **Order Volume**: Bar charts and line graphs depicting order quantities and trends over time.
 - **High-Value Accounts**: Scatter plots identifying accounts with high order volumes and significant sales contributions.
 
-### 4. SQL Analysis Questions
-- **Order IDs with High Quantities**: A query to identify order IDs where `gloss_qty` or `poster_qty` exceeds 4000.
-- **Orders with Zero Standard Quantity**: Find orders with `standard_qty` equal to zero but with high quantities in other categories.
-- **Company Names Matching Specific Criteria**: Search for companies whose names start with 'C' or 'W' and whose primary contact contains 'ana' but not 'eana'.
-- **Regional Sales Rep and Account Association**: A detailed table showing sales reps, their regions, and their associated accounts, sorted alphabetically.
 
-## Contributions
-Each group member made specific contributions to the project:
 
-- **Lawal Kaosarah**:
-  - Conducted data cleaning and preprocessing.
-  - Performed EDA on the `web_events.csv` and `orders.csv` files.
-  - Contributed to the visualization of customer interaction and order data.
-
-- **Eboaju Chioma**:
-  - Analyzed the `sales_reps.csv` and `accounts.csv` files.
-  - Designed and created visualizations for sales rep performance and account insights.
-  - Helped compile the insights into the PowerPoint presentation.
-
-- **Olugbenga Ajewole**:
-  - Worked on the `region.csv` file analysis and helped refine the order analysis.
-  - Contributed to the overall documentation and README file.
-  - Coordinated the group's activities and managed GitHub pull requests.
-
-## Repository Structure
-```plaintext
-|-- Scripts
-   |-- Bash_Scripts
-      |-- (Bash scripts for individual assignments)
-   |-- SQL_Scripts
-      |-- (SQL scripts to answer the posed questions)
-|-- PowerPoint
-   |-- (PowerPoint presentation files)
-|-- README.md
