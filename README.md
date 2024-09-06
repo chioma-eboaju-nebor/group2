@@ -84,6 +84,7 @@ Copy code
    git clone https://github.com/chioma-eboaju-nebor/group2gitlinuxAssignment
 Navigate to the Scripts directory to find the Bash and SQL scripts used in this analysis.
 Use the PowerPoint folder to view the presentation summarizing our findings.
-Conclusion
+
+# Conclusion
 The insights derived from the Posey database provide valuable information that can guide CoreDataEngineers in making strategic decisions in their market. The EDA revealed critical areas where improvements can be made, and our visualizations provide a clear and concise summary of the findings.
 
